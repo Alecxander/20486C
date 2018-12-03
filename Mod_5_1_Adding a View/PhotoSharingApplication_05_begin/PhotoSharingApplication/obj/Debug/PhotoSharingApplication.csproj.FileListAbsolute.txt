@@ -347,7 +347,6 @@ C:\Alexander_git\20486C\Mod_5_1_Adding a View\PhotoSharingApplication_05_begin\P
 C:\Alexander_git\20486C\Mod_5_1_Adding a View\PhotoSharingApplication_05_begin\PhotoSharingApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Alexander_git\20486C\Mod_5_1_Adding a View\PhotoSharingApplication_05_begin\PhotoSharingApplication\bin\Microsoft.AI.WindowsServer.xml
 C:\Alexander_git\20486C\Mod_5_1_Adding a View\PhotoSharingApplication_05_begin\PhotoSharingApplication\bin\Microsoft.AI.Web.xml
-C:\Alexander_git\20486C\Mod_5_1_Adding a View\PhotoSharingApplication_05_begin\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.csprojAssemblyReference.cache
 C:\Alexander_git\20486C\Mod_5_1_Adding a View\PhotoSharingApplication_05_begin\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.csproj.CoreCompileInputs.cache
 C:\Alexander_git\20486C\Mod_5_1_Adding a View\PhotoSharingApplication_05_begin\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.csproj.CopyComplete
 C:\Alexander_git\20486C\Mod_5_1_Adding a View\PhotoSharingApplication_05_begin\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.dll

@@ -1,0 +1,150 @@
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\PhotoSharingTests.dll.config
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\PhotoSharingTests.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\PhotoSharingTests.pdb
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\PhotoSharingApplication.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.Razor.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\EntityFramework.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\PhotoSharingApplication.pdb
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\PhotoSharingApplication.dll.config
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.Razor.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\bin\Debug\EntityFramework.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\obj\Debug\PhotoSharingTests.csprojResolveAssemblyReference.cache
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\obj\Debug\PhotoSharingTests.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_06_end\PhotoSharingTests\obj\Debug\PhotoSharingTests.pdb
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\csc.exe
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\csc.exe.config
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\csc.rsp
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\csi.exe
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\csi.rsp
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\vbc.exe
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\vbc.exe.config
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\vbc.rsp
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\PhotoSharingTests.dll.config
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\PhotoSharingTests.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\PhotoSharingTests.pdb
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\PhotoSharingApplication.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.Helpers.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.Mvc.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.Razor.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.WebPages.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\EntityFramework.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\PhotoSharingApplication.pdb
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\PhotoSharingApplication.dll.config
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.Helpers.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.Mvc.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.Razor.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.WebPages.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\bin\Debug\EntityFramework.xml
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\obj\Debug\PhotoSharingTests.csprojResolveAssemblyReference.cache
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\obj\Debug\PhotoSharingTests.dll
+C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\obj\Debug\PhotoSharingTests.pdb
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csc.exe
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csc.exe.config
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csc.rsp
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csi.exe
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csi.rsp
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.AppContext.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\vbc.exe
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\vbc.exe.config
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\vbc.rsp
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\PhotoSharingTests.dll.config
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\PhotoSharingTests.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\PhotoSharingTests.pdb
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\PhotoSharingApplication.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.Helpers.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.Mvc.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.Razor.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.WebPages.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\EntityFramework.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\PhotoSharingApplication.pdb
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\PhotoSharingApplication.dll.config
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.Helpers.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.Mvc.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.Razor.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.WebPages.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\EntityFramework.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\obj\Debug\PhotoSharingTests.csprojAssemblyReference.cache
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\obj\Debug\PhotoSharingTests.csproj.CoreCompileInputs.cache
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\obj\Debug\PhotoSharingTests.csproj.CopyComplete
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\obj\Debug\PhotoSharingTests.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\obj\Debug\PhotoSharingTests.pdb
