@@ -86,32 +86,6 @@ C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoShar
 C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\obj\Debug\PhotoSharingTests.csprojResolveAssemblyReference.cache
 C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\obj\Debug\PhotoSharingTests.dll
 C:\Users\eladk\dev\Rolling Lab Folder\PhotoSharingApplication_07_begin\PhotoSharingTests\obj\Debug\PhotoSharingTests.pdb
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csc.exe
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csc.exe.config
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csc.rsp
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csi.exe
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\csi.rsp
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.AppContext.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.Collections.Immutable.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.IO.FileSystem.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\System.Reflection.Metadata.dll
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\vbc.exe
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\vbc.exe.config
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\vbc.rsp
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\VBCSCompiler.exe
-C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\roslyn\VBCSCompiler.exe.config
 C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

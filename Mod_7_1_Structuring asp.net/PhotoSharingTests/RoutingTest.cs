@@ -47,7 +47,7 @@ namespace PhotoSharingTests
         [TestMethod]
         public void Test_Photo_Title_Route()
         {
-            var context = new FakeHttpContextForRouting(requestUrl: "~/photo/title/my%20tille");
+            var context = new FakeHttpContextForRouting(requestUrl: "~/photo/title/my%20title");
 
             var routes = new RouteCollection();
             RouteConfig.RegisterRoutes(routes);

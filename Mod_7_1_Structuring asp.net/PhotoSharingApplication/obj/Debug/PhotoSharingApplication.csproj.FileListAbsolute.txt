@@ -562,3 +562,10 @@ C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\obj\
 C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.csproj.CopyComplete
 C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.dll
 C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\obj\Debug\PhotoSharingApplication.pdb
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\bin\MvcSiteMapProvider.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\bin\MvcSiteMapProvider.WebActivator.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\bin\WebActivatorEx.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\bin\Microsoft.Web.Administration.dll
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\bin\MvcSiteMapProvider.xml
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\bin\MvcSiteMapProvider.WebActivator.pdb
+C:\Alexander_git\20486C\Mod_7_1_Structuring asp.net\PhotoSharingApplication\bin\MvcSiteMapProvider.WebActivator.xml

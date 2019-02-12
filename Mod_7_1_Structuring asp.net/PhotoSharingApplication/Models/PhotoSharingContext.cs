@@ -42,9 +42,13 @@ namespace PhotoSharingApplication.Models
         }
         Photo IPhotoSharingContext.FindPhotoByTitle(string Title)
         {
-            Photo photo = (from p in Set<Photo>()
-                           where p.Title == Title
-                           select p).FirstOrDefault();
+            Photo photo = null;
+            if (!string.IsNullOrEmpty(Title))
+            {
+                photo = (from p in Set<Photo>()
+                        where p.Title.ToLower() == Title.ToLower()
+                        select p).FirstOrDefault();
+            }
             return photo;
         }
 
