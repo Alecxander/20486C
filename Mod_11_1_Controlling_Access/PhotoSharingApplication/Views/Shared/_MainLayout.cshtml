@@ -23,6 +23,7 @@
             {
                 @:Hello, @User.Identity.Name
                 @Html.ActionLink("Log Off", "LogOff", "Account")
+                @Html.ActionLink("Reset", "ResetPassword", "Account")
             }
             else{ 
                 @Html.ActionLink("Register", "Register", "Account")

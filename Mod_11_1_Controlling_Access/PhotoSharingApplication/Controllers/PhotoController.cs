@@ -103,6 +103,7 @@ namespace PhotoSharingApplication.Controllers
             }
         }
 
+        [Authorize]
         public ActionResult Delete(int id)
         {
             Photo photo = context.FindPhotoById(id);
@@ -117,6 +118,7 @@ namespace PhotoSharingApplication.Controllers
 
         [HttpPost]
         [ActionName("Delete")]
+        [Authorize]
         public ActionResult DeleteConfirmed(int id)
         {
             Photo photo = context.FindPhotoById(id);

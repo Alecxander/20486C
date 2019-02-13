@@ -8,8 +8,10 @@ using PhotoSharingApplication.Models;
 
 namespace PhotoSharingApplication.Controllers
 {
+    [Authorize]
     public class AccountController : Controller
     {
+
         public ActionResult Logins(string returnUrl)
         {
             return View();
@@ -20,7 +22,7 @@ namespace PhotoSharingApplication.Controllers
         //    return View();
         //}
 
-
+        [AllowAnonymous]
         public ActionResult Login(Login model, string returnUrl)
         {
             if (ModelState.IsValid)
@@ -53,12 +55,14 @@ namespace PhotoSharingApplication.Controllers
             return RedirectToAction("Index", "Home");
         }
 
+        [AllowAnonymous]
         public ActionResult Register()
         {
             return View();
         }
 
         [HttpPost]
+        [AllowAnonymous]
         public ActionResult Register(Register model)
         {
             if (ModelState.IsValid)
@@ -71,6 +75,50 @@ namespace PhotoSharingApplication.Controllers
                 } catch(MembershipCreateUserException e)
                 {
                     ModelState.AddModelError("Registration Error", "Registration error: " + e.StatusCode.ToString());
+                }
+            }
+            return View(model);
+        }
+
+        public enum ManageMessageId
+        {
+            ChangePasswordSuccess,
+            SetPasswordSuccess,
+        }
+
+        public ActionResult ResetPassword(ManageMessageId? message)
+        {
+            if(message != null)
+            {
+                ViewBag.StatusMessage = "Your password has been changed";
+            }
+            ViewBag.ReturnUrl = Url.Action("ResetPassword");
+
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult ResetPassword(LocalPassword model)
+        {
+            ViewBag.ReturnUrl = Url.Action("ResetPassword");
+            if (ModelState.IsValid)
+            {
+                bool changePasswordSucceeded;
+                try
+                {
+                    changePasswordSucceeded = Membership.Provider.ChangePassword(User.Identity.Name, model.OldPassword, model.NewPassword);
+                }
+                catch (Exception)
+                {
+                    changePasswordSucceeded = false;
+                }
+                if (changePasswordSucceeded)
+                {
+                    return RedirectToAction("ResetPassword", new { message = ManageMessageId.ChangePasswordSuccess });
+                }
+                else
+                {
+                    ModelState.AddModelError("", "The current password is incorrect or the new password is invalid");
                 }
             }
             return View(model);
