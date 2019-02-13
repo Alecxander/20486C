@@ -159,6 +159,7 @@
   <ItemGroup>
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\CommentController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\PhotoController.cs" />
@@ -166,6 +167,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\AccountModelClasses.cs" />
     <Compile Include="Models\IPhotoSharingContext.cs" />
     <Compile Include="Models\Photo.cs" />
     <Compile Include="Models\Comment.cs" />
@@ -263,6 +265,8 @@
     <Content Include="Views\Shared\_CommentsForPhoto.cshtml" />
     <Content Include="Views\Shared\_CreateAComment.cshtml" />
     <Content Include="Views\Photo\SlideShow.cshtml" />
+    <Content Include="Views\Account\Login.cshtml" />
+    <Content Include="Views\Account\Register.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

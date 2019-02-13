@@ -69,6 +69,7 @@ namespace PhotoSharingApplication.Controllers
             return View("Display", photo);
         }
 
+        [Authorize]
         public ActionResult Create()
         {
             Photo newPhoto = new Photo();
